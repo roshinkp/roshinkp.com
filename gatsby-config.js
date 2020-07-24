@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Roshin Kadanna Pally`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    description: `Senior Software Engineer with an interest in developing visualization tools.`,
+    author: `Roshin Kadanna Pally`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Roshin Kadanna Pally`,
+        short_name: `Roshin Kadanna Pally`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,

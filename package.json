@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "roshinkp.com",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "My personal website using Gatsby and React.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Roshin Kadanna Pally",
   "dependencies": {
     "gatsby": "^2.23.12",
     "gatsby-cli": "^2.12.65",
@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/roshinkp/roshinkp.com"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
