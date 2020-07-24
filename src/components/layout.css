@@ -97,8 +97,7 @@ Consists of a picture and name text.
 .profile img {
   height: 200px;
   border-radius: 50%;
-  border: 1px solid white;
-  box-shadow: rgb(110, 108, 108) 0px 0px 8px;
+  box-shadow: rgb(110, 108, 108) 0px 0px 10px;
 }
 /* About me */
 .aboutMe h1 {
