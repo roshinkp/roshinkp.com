@@ -8,6 +8,8 @@ const Header = ({ siteTitle }) => (
       <ul class="mainNav">
         <li><Link to="/">home</Link></li>
         <li><Link to="/resume">resume</Link></li>
+        <li><Link to="/now">now</Link></li>
+        <li><Link to="/before">before</Link></li>
       </ul>
     </nav>
   </header>

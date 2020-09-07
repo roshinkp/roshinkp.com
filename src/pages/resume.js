@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import resume from "../docs/Resume-Roshin-Kadanna-Pally.pdf"
 
-const SecondPage = () => (
+const Resume = () => (
   <Layout>
     <SEO title="Resume" />
     <section class="resumePDF">
@@ -15,4 +15,4 @@ const SecondPage = () => (
   </Layout>
 )
 
-export default SecondPage
+export default Resume
