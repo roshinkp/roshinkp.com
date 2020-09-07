@@ -13,7 +13,7 @@ const IndexPage = () => (
         <figcaption>Roshin Kadanna Pally</figcaption>
       </figure>
     </section>
-    <section>
+    <section class="aboutMe">
       <h1>Hello, I'm Roshin</h1>
       <p>
         I'm a Senior Software Engineer in Natick, Massachusetts.
