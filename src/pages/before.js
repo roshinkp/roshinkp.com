@@ -15,7 +15,7 @@ const Before = () => (
             <p>A Scope for visualizing time domain signals produced by MATLAB or Simulink simulation.</p>
             <div>
                 <img src={timeScope} alt="Time Scope" />
-                <iframe width="640" height="360" src="https://www.youtube.com/watch?v=oOPTzvtXDH4" title="New Scopes Interface">
+                <iframe width="640" height="360" src="https://www.youtube.com/embed/oOPTzvtXDH4" title="New Scopes Interface">
                 </iframe>
             </div>
             <h2>Unified Scopes</h2>
