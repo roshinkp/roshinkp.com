@@ -7,7 +7,7 @@ import lteDownlink from "../images/lteDownlink.png"
 const Before = () => (
     <Layout>
         <SEO title="Before" />
-        <section>
+        <section class="content">
             <h3>My Past Projects</h3>
             <p>I worked on developing a new generation of Scopes for the MATLAB and Simulink product family. The new Scopes are performant, extensible, and share a common infrastructure. They are developed using C++, Java, MATLAB, and MATLAB Graphics. Shown below are some of the highlights.
             </p>
