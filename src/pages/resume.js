@@ -9,7 +9,7 @@ const Resume = () => (
     <SEO title="Resume" />
     <section class="resumePDF">
       <object data={resume} type="application/pdf" width="100%" height="100%">
-        <p>Roshin's Resume <a href={resume}>PDF</a></p>
+        <p>Download Roshin's Resume <a href={resume}>PDF</a></p>
       </object>
     </section>
   </Layout>

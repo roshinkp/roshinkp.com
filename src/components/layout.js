@@ -11,7 +11,7 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
 import "./layout.css"
-import { FaGithub, FaLinkedin } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaFacebook } from 'react-icons/fa';
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -33,6 +33,7 @@ const Layout = ({ children }) => {
         <ul class="footerIcons">
           <li><a href="https://github.com/roshinkp" target="_blank" rel="noreferrer" aria-label="github"><FaGithub/></a></li>
           <li><a href="https://www.linkedin.com/in/roshinkadannapally/" target="_blank" rel="noreferrer" aria-label="github"><FaLinkedin/></a></li>
+          <li><a href="https://www.facebook.com/roshinkadannapally/" target="_blank" rel="noreferrer" aria-label="github"><FaFacebook/></a></li>
         </ul>
       </footer>
     </>
