@@ -2,6 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import drivingScenarioDesigner from "../images/drivingScenarioDesigner.png"
+import cuboidWorldWithMeshes from "../images/cuboidWorldWithMeshes.gif"
 import birdsEyeScope from "../images/birdsEyeScope.png"
 
 const Now = () => (
@@ -10,11 +11,11 @@ const Now = () => (
         <section class="content">
             <h3>My Current Projects</h3>
             <p>
-                I currently work on designing and implementing simulation and visualization features for automated driving and signal processing fields. I am using C++, JavaScript (Dojo, Chromium Embedded Framework), MATLAB, and MATLAB graphics for development. Shown below are some of the highlights.
+                I currently work on designing and implementing simulation and visualization features for automated driving and signal processing groups at MathWorks. I am using C++, JavaScript (Dojo, Chromium Embedded Framework), MATLAB, and MATLAB graphics system for development. Shown below are some of the highlights.
             </p>
             <h4>Driving Scenario Simulation</h4>
             <p>
-                Driving Scenario Simulation tools enable engineers to design and test their algorithms in MATLAB and Simulink. Features I contributed to include: Lidar point cloud generation; low-poly actor meshes; reverse motion in driving scenarios; road network data model for geographic maps such as HERE/OSM and OpenDRIVE; Driving Scenario Designer app; lanes ground truth specification, visualization, and detection; development of a Driving Scenario Reader block and Bird's-Eye Scope in Simulink.
+                Driving Scenario Simulation tools enable engineers to design and test their algorithms in MATLAB and Simulink. Features I contributed to include: INS sensor integration; smooth, jerk-limited vehicle trajectories for simulation; Lidar point cloud generation; low-poly actor meshes; reverse motion in driving scenarios; road network data model for geographic maps such as HERE/OSM and OpenDRIVE; Driving Scenario Designer app; lanes ground truth specification, visualization, and detection; development of a Driving Scenario Reader block and Bird's-Eye Scope in Simulink.
             </p>
             <h4 class="subHeading">Driving Scenario Designer</h4>
             <p>
@@ -22,6 +23,9 @@ const Now = () => (
             </p>
             <div class="highlights">
                 <div><img src={drivingScenarioDesigner} alt="Driving Scenario Designer" /></div>
+                <div><img src={cuboidWorldWithMeshes} alt="Cuboid world with low-poly meshes" /></div>
+                <div><iframe src="https://www.youtube.com/embed/flI5P5wV2Yw" title="Developer Tips and Tricks DSD">
+                </iframe></div>
                 <div><iframe src="https://www.youtube.com/embed/cBz9Q7-vNIE" title="Driving Scenario Designer">
                 </iframe></div>
             </div>
