@@ -14,7 +14,7 @@ const Else = () => (
   <Layout>
     <SEO title="Else" />
     <section className="content">
-      <h3>My Other Works</h3>
+      <h1>My Other Works</h1>
       <p>
         I have done some projects for fun and learning, written some blog posts,
         etc. You may check them out using the links below.
