@@ -79,7 +79,7 @@ footer {
 /* Home Background*/
 .homeBackground {
   background-color: black;
-  background-image: url("../images/eve.jpeg");
+  background-image: url("../images/eve_large.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   padding: 20px;

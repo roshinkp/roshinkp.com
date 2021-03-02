@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import roshi from "../images/roshi.jpeg"
+import roshi from "../images/roshi_medium.jpg"
 
 const IndexPage = () => (
   <Layout>
