@@ -1,0 +1,107 @@
+.aboutMe,
+.content {
+  padding: 0 4px;
+}
+
+.content img {
+  height: auto;
+  max-width: 780px;
+  width: 100%;
+}
+
+iframe {
+  height: auto;
+  min-height: 400px;
+  width: 100%;
+}
+
+/* Resume */
+.resumePdf {
+  height: 600px;
+}
+
+/* Home Background*/
+.homeBackground {
+  background-color: black;
+  background-image: url("../images/eve_large.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px -20px 60px 5px black inset;
+  height: 300px;
+  margin-bottom: 20px;
+  padding: 20px;
+  text-align: center;
+}
+/* Profile 
+Consists of a picture and name text.
+*/
+.profile {
+  color: white;
+  font-size: 2rem;
+  margin-left: 0px;
+  margin-top: 70px;
+  text-align: left;
+  text-shadow: 1px 1px black;
+  text-transform: capitalize;
+}
+
+.profile figcaption {
+  visibility: hidden;
+}
+
+.profile img {
+  border-radius: 50%;
+  box-shadow: rgb(110, 108, 108) 0px 0px 10px;
+  height: 200px;
+}
+/* Content */
+h1 {
+  color: rgb(53, 60, 64);
+}
+h2 {
+  color: rgb(0, 91, 177);
+}
+h3 {
+  color: rgb(231, 81, 41);
+}
+
+p,
+.projectLink {
+  color: #555;
+}
+
+.highlights {
+  display: flex;
+  flex-direction: column;
+}
+
+.highlights div {
+  padding-bottom: 20px;
+}
+
+.highlights div:last-child {
+  padding-bottom: 0px;
+}
+
+.projectLink li {
+  margin-bottom: 10px;
+}
+
+.projectLink a {
+  border-bottom: 3px deepskyblue solid;
+  color: gray;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.projectLink a:hover {
+  color: rgb(0, 91, 177);
+  transition: color 0.2s;
+}
+
+/* Laptops and tablets*/
+@media screen and (min-width: 310px) {
+  .profile figcaption {
+    visibility: visible;
+  }
+}

@@ -7,9 +7,11 @@ import resume from "../docs/Resume-Roshin-Kadanna-Pally.pdf"
 const Resume = () => (
   <Layout>
     <SEO title="Resume" />
-    <section class="resumePDF">
+    <section class="resumePdf">
       <object data={resume} type="application/pdf" width="100%" height="100%">
-        <p>Download Roshin's Resume <a href={resume}>PDF</a></p>
+        <p>
+          Download Roshin's Resume <a href={resume}>PDF</a>
+        </p>
       </object>
     </section>
   </Layout>
