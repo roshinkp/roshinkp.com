@@ -4,6 +4,7 @@ import SEO from "../components/seo"
 import drivingScenarioDesigner from "../images/drivingScenarioDesigner.png"
 import cuboidWorldWithMeshes from "../images/cuboidWorldWithMeshes.gif"
 import birdsEyeScope from "../images/birdsEyeScope.png"
+import roadrunnerGUI from "../images/roadrunnerGUI.png"
 
 const Now = () => (
   <Layout>
@@ -11,12 +12,22 @@ const Now = () => (
     <section class="content">
       <h1>My Current Projects</h1>
       <p>
-        I currently work on designing and implementing simulation and
-        visualization features for automated driving and signal processing
-        groups at MathWorks. I am using C++, JavaScript (Dojo, Chromium Embedded
-        Framework), HTML, CSS, MATLAB, and MATLAB graphics system for
-        development. Shown below are some of the highlights.
+        I currently work on designing and implementing APIs and simulation and
+        visualization features for RoadRunner, Automated Driving, and Signal
+        Processing Communications groups at MathWorks. Shown below are some of
+        the highlights.
       </p>
+      <h2>Scene & Scenario Authoring APIs</h2>
+      <p>
+        Scene and scenario authoring APIs in MATLAB and RoadRunner are tools
+        that allow users to create, edit, and automate 3D environments and
+        simulation scenarios for testing autonomous systems.
+      </p>
+      <div class="highlights">
+        <div>
+          <img src={roadrunnerGUI} alt="RoadRunner and MATLAB" />
+        </div>
+      </div>
       <h2>Driving Scenario Simulation</h2>
       <p>
         Driving Scenario Simulation tools enable engineers to design and test
