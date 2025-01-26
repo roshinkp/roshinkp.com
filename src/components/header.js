@@ -18,9 +18,6 @@ const Header = ({ siteTitle }) => (
         <li>
           <Link to="/before">before</Link>
         </li>
-        <li>
-          <Link to="/else">else</Link>
-        </li>
       </ul>
     </nav>
   </header>

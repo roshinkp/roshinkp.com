@@ -23,7 +23,7 @@ iframe {
 /* Home Background*/
 .homeBackground {
   background-color: black;
-  background-image: url("../images/eve_large.jpg");
+  background-image: url("../images/homebgnd_large.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: 0px -20px 60px 5px black inset;

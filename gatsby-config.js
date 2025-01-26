@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Roshin Kadanna Pally`,
-    description: `Senior Software Engineer with an interest in developing visualization tools.`,
+    description: `Principal Software Engineer with an interest in developing simulation visualization tools.`,
     author: `Roshin Kadanna Pally`,
   },
   plugins: [

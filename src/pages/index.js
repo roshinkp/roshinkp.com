@@ -13,12 +13,16 @@ const IndexPage = () => (
       </figure>
     </section>
     <section class="aboutMe">
-      <h1>Hello, I'm Roshin</h1>
+      <h1>Empowering Solutions with Innovation</h1>
       <p>
-        I'm a Software Engineer. I love to work on simulation visualization
-        tools and web applications. I enjoy music, science fiction, photography,
-        comedy, cars, and listening to Blinkist. This website is a digital diary
-        of my professional work and hobby projects.
+        I am a Principal Software Engineer and Technical Lead at MathWorks. I
+        have extensive experience delivering impactful software solutions. My
+        expertise lies in designing and implementing advanced simulation and
+        visualization tools, with a focus on the MATLAB, Simulink, and
+        RoadRunner ecosystems. I’m passionate about solving complex challenges
+        and building tools that empower engineers and scientists worldwide. Feel
+        free to connect if you’d like to network, discuss innovative projects,
+        or share insights into software architecture and AI-driven solutions.
       </p>
     </section>
   </Layout>
