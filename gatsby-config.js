@@ -3,7 +3,6 @@ module.exports = {
     title: `Roshin Kadanna Pally`,
     description: `Principal Software Engineer with an interest in developing simulation visualization tools.`,
     author: `Roshin Kadanna Pally`,
-    "google-site-verification": `lNmGOUh04Gyd1ZjMNo7sqEguydYSuYEcWO7fIf-OUr4`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

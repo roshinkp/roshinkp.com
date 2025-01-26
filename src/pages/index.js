@@ -2,9 +2,16 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import roshi from "../images/roshi_medium.jpg"
+import Helmet from "react-helmet"
 
 const IndexPage = () => (
   <Layout>
+    <Helmet>
+      <meta
+        name="google-site-verification"
+        content="lNmGOUh04Gyd1ZjMNo7sqEguydYSuYEcWO7fIf-OUr4"
+      />
+    </Helmet>
     <SEO title="Home" />
     <section class="homeBackground">
       <figure class="profile">
