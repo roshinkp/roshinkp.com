@@ -4,7 +4,6 @@ import React from "react"
 
 const Header = ({ siteTitle }) => (
   <header>
-    <meta name="google-site-verification" content="lNmGOUh04Gyd1ZjMNo7sqEguydYSuYEcWO7fIf-OUr4" />
     <nav>
       <ul class="mainNav">
         <li>
