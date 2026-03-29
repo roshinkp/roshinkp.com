@@ -25,7 +25,7 @@ const IndexPage = () => (
         I am a Principal Software Engineer and Technical Lead at MathWorks. I
         have extensive experience delivering impactful software solutions. My
         expertise lies in designing and implementing advanced simulation and
-        visualization tools, with a focus on the MATLAB, Simulink, and
+        visualization tools, with a focus on the 3D Scenarios, MATLAB, Simulink, and
         RoadRunner ecosystems. I’m passionate about solving complex challenges
         and building tools that empower engineers and scientists worldwide. Feel
         free to connect if you’d like to network, discuss innovative projects,
