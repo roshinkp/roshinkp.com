@@ -1,0 +1,33 @@
+/* Main Navigation */
+
+:root {
+    --text-color: white;
+}
+.mainNav {
+    color: var(--text-color);
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    padding-left: 0;
+    text-align: center;
+    text-transform: capitalize;
+  }
+  
+  .mainNav a {
+    color: var(--text-color);
+    text-decoration: none;
+  }
+  
+  .mainNav a:hover {
+    color: rgb(231, 102, 101);
+  }
+  
+  .mainNav li {
+    margin: 0 1rem;
+  }
+
+  @media screen and (min-width: 310px) {
+    .mainNav {
+      flex-direction: row;
+    }
+  }
