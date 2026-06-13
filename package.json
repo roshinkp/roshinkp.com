@@ -46,5 +46,13 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "overrides": {
+    "webpack": ">=5.105.0",
+    "serialize-javascript": ">=7.0.5",
+    "path-to-regexp": "0.1.13",
+    "tmp": ">=0.2.6",
+    "cookie": ">=0.7.0",
+    "immutable": "3.8.3"
   }
 }
