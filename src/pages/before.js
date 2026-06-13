@@ -33,10 +33,18 @@ const Before = () => (
           Below is a video demonstrating some of the features of this Scope.
         </p>
         <div>
-          <iframe
-            src="https://www.youtube.com/embed/QvNkOvvuPp0"
-            title="Logic Analyzer"
-          ></iframe>
+          <a
+            href="https://www.youtube.com/watch?v=QvNkOvvuPp0"
+            target="_blank"
+            rel="noreferrer"
+            class="youtubeThumbnail"
+          >
+            <img
+              src="https://img.youtube.com/vi/QvNkOvvuPp0/hqdefault.jpg"
+              alt="Watch Logic Analyzer on YouTube"
+            />
+            <span class="playButton">&#9654;</span>
+          </a>
         </div>
       </div>
       <h2>Time Scope</h2>
@@ -58,10 +66,18 @@ const Before = () => (
           was released.
         </p>
         <div>
-          <iframe
-            src="https://www.youtube.com/embed/IGLmT4A5WS4"
-            title="New Scopes Interface"
-          ></iframe>
+          <a
+            href="https://www.youtube.com/watch?v=IGLmT4A5WS4"
+            target="_blank"
+            rel="noreferrer"
+            class="youtubeThumbnail"
+          >
+            <img
+              src="https://img.youtube.com/vi/IGLmT4A5WS4/hqdefault.jpg"
+              alt="Watch New Scopes Interface on YouTube"
+            />
+            <span class="playButton">&#9654;</span>
+          </a>
         </div>
       </div>
       <h2>Unified Scopes</h2>

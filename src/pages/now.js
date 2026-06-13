@@ -66,10 +66,18 @@ const Now = () => (
             Below is a video demonstrating some recent features in the driving
             scenarios area.
           </p>
-          <iframe
-            src="https://www.youtube.com/embed/flI5P5wV2Yw"
-            title="Developer Tips and Tricks DSD"
-          ></iframe>
+          <a
+            href="https://www.youtube.com/watch?v=flI5P5wV2Yw"
+            target="_blank"
+            rel="noreferrer"
+            class="youtubeThumbnail"
+          >
+            <img
+              src="https://img.youtube.com/vi/flI5P5wV2Yw/hqdefault.jpg"
+              alt="Watch Driving Scenario Designer on YouTube"
+            />
+            <span class="playButton">&#9654;</span>
+          </a>
         </div>
       </div>
       <h3>Bird's-Eye Scope</h3>
