@@ -59,7 +59,7 @@ const Before = () => (
         </p>
         <div>
           <iframe
-            src="https://www.youtube.com/embed/oOPTzvtXDH4"
+            src="https://www.youtube.com/embed/IGLmT4A5WS4"
             title="New Scopes Interface"
           ></iframe>
         </div>
