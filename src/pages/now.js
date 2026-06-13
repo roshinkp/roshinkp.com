@@ -13,7 +13,7 @@ const Now = () => (
       <h1>My Current Projects</h1>
       <p>
         I currently work on designing and implementing APIs and simulation and
-        visualization features for RoadRunner, Automated Driving, 3D Scenarios,
+        visualization features for 3D Scenarios, RoadRunner, Automated Driving,
         and Signal Processing Communications groups at MathWorks. 3D Scenarios
         is an add-on to the Mapping Toolbox with an initial release planned for
         MATLAB R2026b. Shown below are some of the highlights.
