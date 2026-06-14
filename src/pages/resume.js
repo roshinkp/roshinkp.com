@@ -84,7 +84,7 @@ const Resume = () => (
           <h2>Summary</h2>
           <p>
             Principal Software Engineer and Technical Lead at MathWorks with a
-            strong track record of delivering impactful software products for
+            strong track record of delivering impactful engineering solutions for
             engineers and scientists. I specialize in simulation and
             visualization tools within the MATLAB, Simulink, and RoadRunner
             ecosystems, and bring a product-focused mindset to solving technical
