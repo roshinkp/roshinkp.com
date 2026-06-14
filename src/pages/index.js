@@ -24,12 +24,16 @@ const IndexPage = () => (
       <p>
         I am a Principal Software Engineer and Technical Lead at MathWorks. I
         have extensive experience delivering impactful technology solutions. My
-        expertise lies in designing and implementing advanced simulation and
-        visualization tools, with a focus on the 3D Scenarios, MATLAB, Simulink, and
-        RoadRunner ecosystems. I’m passionate about solving complex challenges
-        and building tools that empower engineers and scientists worldwide. Feel
-        free to connect if you’d like to network, discuss innovative projects,
-        or share insights into software architecture and AI-driven solutions.
+        current focus is building the foundational core of 3D Scenarios — a
+        multi-domain geographic simulation platform that enables engineers to
+        construct environments with terrain, buildings, and actors spanning
+        land, air, and space. The platform supports ray tracing, line-of-sight
+        analysis, and event-driven simulation, serving as the common foundation
+        on which MathWorks toolboxes for radar, wireless communications, UAV,
+        robotics, and more build their simulation capabilities. I led the
+        development of the Scenario Designer app, which also enables AI-driven
+        agentic workflows. I’m passionate about building tools that empower
+        engineers and scientists worldwide.
       </p>
     </section>
   </Layout>
