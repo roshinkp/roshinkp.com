@@ -16,7 +16,6 @@ const IndexPage = () => (
     <section class="homeBackground">
       <figure class="profile">
         <img src={roshi} alt="Roshin Kadanna Pally" />
-        <figcaption>Roshin Kadanna Pally</figcaption>
       </figure>
     </section>
     <section class="aboutMe">

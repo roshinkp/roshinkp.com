@@ -4,22 +4,22 @@ import React from "react"
 
 const Header = ({ siteTitle }) => (
   <header>
-    <nav>
-      <ul class="mainNav">
-        <li>
-          <Link to="/">home</Link>
-        </li>
-        <li>
-          <Link to="/resume">resume</Link>
-        </li>
-        <li>
-          <Link to="/now">now</Link>
-        </li>
-        <li>
-          <Link to="/before">before</Link>
-        </li>
-      </ul>
-    </nav>
+    <div class="headerInner">
+      <Link to="/" class="headerBrand">Roshin Kadanna Pally</Link>
+      <nav>
+        <ul class="mainNav">
+          <li>
+            <Link to="/resume" activeClassName="navActive">resume</Link>
+          </li>
+          <li>
+            <Link to="/now" activeClassName="navActive">now</Link>
+          </li>
+          <li>
+            <Link to="/before" activeClassName="navActive">before</Link>
+          </li>
+        </ul>
+      </nav>
+    </div>
   </header>
 )
 

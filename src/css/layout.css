@@ -40,10 +40,6 @@ Consists of a picture and name text.
   text-transform: capitalize;
 }
 
-.profile figcaption {
-  visibility: hidden;
-}
-
 .profile img {
   border-radius: 50%;
   box-shadow: rgb(110, 108, 108) 0px 0px 10px;
