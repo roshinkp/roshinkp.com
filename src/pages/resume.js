@@ -85,16 +85,16 @@ const Resume = () => (
           <p>
             Principal Software Engineer and Technical Lead at MathWorks with a
             strong track record of delivering impactful engineering solutions for
-            engineers and scientists. I specialize in simulation and
+            scientists and engineers. I specialize in simulation and
             visualization tools within the MATLAB, Simulink, and RoadRunner
             ecosystems, and bring a product-focused mindset to solving technical
             challenges and driving innovation.
           </p>
           <ul>
-            <li>Leading cross-functional teams to translate user needs into product features.</li>
-            <li>Designing APIs and interactive visualization tools for autonomous systems and simulation environments.</li>
-            <li>Driving product vision from concept to delivery, balancing technical feasibility, customer value, and business objectives.</li>
-            <li>Full-stack development across JavaScript, C++, Python, and MATLAB, focusing on creating elegant, intuitive software solutions.</li>
+            <li>Leading cross-functional teams to translate user needs into amazing product features.</li>
+            <li>Designing APIs and interactive visualization tools for 3D Scenarios simulation.</li>
+            <li>Driving product vision from concept to delivery, balancing technical &amp; customer/business priorities.</li>
+            <li>Full-stack development across JavaScript, C++, Python, and MATLAB.</li>
           </ul>
 
           <h2>Experience</h2>
